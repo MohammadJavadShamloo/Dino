@@ -72,8 +72,8 @@ import supervision as sv
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/grounding-dino-zero-shot.git
-    cd grounding-dino-zero-shot
+    git clone https://github.com/MohammadJavadShamloo/Dino.git
+    cd Dino
     ```
     
 2.  Install dependencies:
